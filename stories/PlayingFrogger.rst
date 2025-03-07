@@ -2,6 +2,8 @@
 Playing Frogger
 ===============
 
+*Author*: Derick Rethans
+
 *Setting:* php[tek], Chicago, various years
 
 *Tags:* #nights-out #conference
